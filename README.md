@@ -1,7 +1,13 @@
 # Android-application-development-NIT3213-
-![image](https://github.com/user-attachments/assets/bdcce296-4f16-49fd-9697-dddadf5f3652) (This is how login page looks like)
-![image](https://github.com/user-attachments/assets/b82e41f9-38c4-4c14-a600-e25e28297e02) (This is the main dashboard where it will display all the entities from the API)
-![image](https://github.com/user-attachments/assets/7b980aab-1add-43fd-a20f-ce81b6ec282b) (This is the example of the detail page which shows more information of the entity that was clicked)
+![image](https://github.com/user-attachments/assets/bdcce296-4f16-49fd-9697-dddadf5f3652) 
+(This is how login page looks like)
+
+![image](https://github.com/user-attachments/assets/b82e41f9-38c4-4c14-a600-e25e28297e02) 
+(This is the main dashboard where it will display all the entities from the API)
+
+![image](https://github.com/user-attachments/assets/7b980aab-1add-43fd-a20f-ce81b6ec282b) 
+(This is the example of the detail page which shows more information of the entity that was clicked)
+
 
 
 ## Prerequisites
